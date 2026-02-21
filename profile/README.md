@@ -2,8 +2,8 @@
 
 # Making Adaptation Happen
 
-Climate adaptation often stalls between risk assessment and execution.  
-At Resilens, we bridge that gap.
+Climate adaptation often stalls between risk assessment and execution. At
+Resilens, we bridge that gap.
 
 We’re currently onboarding a limited number of pilot partners. If you manage adaptation
 programs - or advise those who do - let’s talk.
