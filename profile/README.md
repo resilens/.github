@@ -1,4 +1,5 @@
-![Resilens Logo](https://resilens.com/Resilens_Logo.png)
+<img width="6963" height="1195" alt="Resilens_Logo" src="https://github.com/user-attachments/assets/974d11fa-7265-4d1c-bb1f-797ac58c662b" />
+
 
 # Making Adaptation Happen
 
