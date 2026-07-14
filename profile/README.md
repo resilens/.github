@@ -1,5 +1,8 @@
-<img width="6963" height="1195" alt="Resilens_Logo" src="https://github.com/user-attachments/assets/974d11fa-7265-4d1c-bb1f-797ac58c662b" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1c5c823a-427c-46a2-84fa-3ec526ca71af">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d28d7b69-bcc0-4f1c-aa0c-df5bfdd9aaa6">
+  <img width="100%" alt="Resilens_Logo" src="https://github.com/user-attachments/assets/d28d7b69-bcc0-4f1c-aa0c-df5bfdd9aaa6" />
+</picture>
 
 # Making Adaptation Happen
 
