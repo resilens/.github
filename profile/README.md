@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1c5c823a-427c-46a2-84fa-3ec526ca71af">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d28d7b69-bcc0-4f1c-aa0c-df5bfdd9aaa6">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/64fad8ba-8f4b-459a-a416-82c133dc283b">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/ed7697c9-585a-4176-a139-e6194341943b">
   <img width="100%" alt="ResiLens logo" src="https://github.com/user-attachments/assets/d28d7b69-bcc0-4f1c-aa0c-df5bfdd9aaa6" />
 </picture>
 
